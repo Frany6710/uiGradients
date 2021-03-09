@@ -1,5 +1,9 @@
 [
     {
+        "name": "Discord",
+        "colors": ["#4E5D94", "7289DA", "#FFFFFF", "#99AAB5", "2C2F33", "#2327A"]
+    },
+    {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
